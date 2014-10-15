@@ -4,7 +4,7 @@
 
 Kalabox is a free, integrated workflow solution for Drupal (and eventually all PHP developers). It’s the thing that connects all your things -- including your hosting account -- to provide a complete desktop-to-live workflow loop. First developed by Kalamuna as an internal tool, people all over the world now use it to code, test and go live faster than ever.
 
-**[HELP US BUILD IT!](https://github.com/kalabox/kalabox/wiki/Contributing-to-Kalabox)**
+**[HELP US BUILD IT!](https://github.com/kalabox/kalabox-docs/wiki/Contributing-to-Kalabox)**
 
 ### Use Your Tools, Faster
 
